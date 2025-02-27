@@ -1,18 +1,15 @@
-# Pokemon-deck
+# Final Flutter Project
 
-Final mobile development project.
+Final Flutter Project
 
-## Description
+## Getting Started
 
-Pokemon-deck is an app that uses an external Pokémon API to retrieve card data and display it on a list screen. On the list, there is also a search feature to find a specific Pokémon and view all card variations for that Pokémon. You can then build a deck by selecting the cards you want. The app also features a calendar with official and independent tournaments.
 
-## Features
+A few resources to get you started if this is your first Flutter project:
 
-- View Pokémon cards.
-- Search for a specific Pokémon to see its card variations.
-- Build a custom deck by selecting cards.
-- Calendar with official and independent tournaments.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## API Used
-
-The API used in the project is the [Pokémon TCG API](https://api.pokemontcg.io/v2/).
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
