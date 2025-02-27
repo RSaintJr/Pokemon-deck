@@ -19,4 +19,4 @@ A Flutter app that displays a list of Pokémon TCG cards. Users can add cards to
   - `GET /sets`: List all card sets.
   - `GET /types`: Retrieve all Pokémon types.
 
-For more details, visit the [Pokémon TCG API Documentation](https://api.pokemontcg.io).
+For more details, visit the [Pokémon TCG API Documentation](https://pokemontcg.io).
